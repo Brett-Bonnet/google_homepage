@@ -1,0 +1,1 @@
+This project is intended as a way to learn some basics of using HTML and CSS. Within this small project I was able to learn how to create and change the appearance of forms, footers, navigation links, etc. 
